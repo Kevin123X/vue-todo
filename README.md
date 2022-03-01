@@ -1,1 +1,1 @@
-# vue todo + 简单store模式-状态管理
+# vue todo  简单store模式-状态管理
